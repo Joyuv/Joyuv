@@ -1,9 +1,12 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Joyuv" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Joyuv&layout=compact&langs_count=8&card_width=320" />
-</a>
+<div align='center'>
+  
+![](https://github-readme-stats.vercel.app/api?username=Joyuv&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=charlon-156&theme=chartreuse-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Joyuv&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+</div>
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joyuv&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joyuv&theme=blue-green&layout=donut)](https://github.com/anuraghazra/github-readme-stats) -->
 
